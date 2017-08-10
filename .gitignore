@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+input/
+output/
+tmp/
+backup/
+resources/
+.ipynb_checkpoints/
+*.h5
